@@ -4,7 +4,7 @@ import Historia from "./components/Historia";
 import Valores from "./components/Valores";
 import Equipe from "./components/Equipe";
 import CTA from "./components/CTA";
-import styles from "./styles/Home.module.css";
+import styles from "./styles/home.module.css";
 
 export default function Home() {
   return (
